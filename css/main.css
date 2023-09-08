@@ -292,6 +292,10 @@ form button {
         border-radius: 20px;
         padding: 10px 0;
     }
+    .form-sec{
+        width: 100%;
+        margin: -162px 0px 0px -26px;
+    }
 }
 /* media queries */
 @media(min-width: 992px) {
